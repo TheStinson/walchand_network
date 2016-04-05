@@ -1,0 +1,12 @@
+1. RAILS AUTHENTICATION IN DETAIL
+
+    http://www.sitepoint.com/devise-authentication-in-dept/h
+
+2. DIFFERENT DEVISE EXTENSIONS FOR IMPLEMENTING FUNCTIONALITIES
+
+    https://github.com/plataformatec/devise/wiki/Extensions
+    
+3. USEFUL SMALL TUTORIALS FOR RAILS 
+    https://github.com/plataformatec/devise/wiki/How-To:-Change-the-default-sign_in-and-sign_out-routes
+    
+    rails s -b $IP -p $PORT
